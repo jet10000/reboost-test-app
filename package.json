@@ -1,0 +1,22 @@
+{
+  "name": "reboost-test-app",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "dev": "node reboost"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@reboost/plugin-react-refresh": "^0.18.1",
+    "@reboost/plugin-svelte": "^0.18.1",
+    "@reboost/plugin-vue": "^0.18.1",
+    "reboost": "^0.18.1"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-monaco-editor": "^0.40.0",
+    "svelte": "^3.29.7",
+    "vue": "^3.0.2"
+  }
+}
